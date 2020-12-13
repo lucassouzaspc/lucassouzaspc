@@ -1,5 +1,3 @@
-<h3 align="left">QA Test</h3>
-
 <h3 align="left">Conhecimentos:</h3>
 
 Automação Web com Selenium e Python\
