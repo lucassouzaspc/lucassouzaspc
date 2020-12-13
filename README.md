@@ -1,11 +1,6 @@
 <h3 align="left">QA Test</h3>
 
-<h3 align="left">Sobre</h3>
-
-Atuando na área de QA desde 2015 na empresa Thomson Reuters. Sou formado em Engenharia da Computação pela Faculdade METROCAMP e técnico em informática pela Fundação Bradesco.\
-Anteriormente trabalhei em um projeto da IBM alocado no cliente Thomson Reuters prestando serviços de suporte técnico.
-
-Conhecimentos:
+<h3 align="left">Conhecimentos:</h3>
 
 Automação Web com Selenium e Python\
 Execução de automação BDD com Cucumber\
