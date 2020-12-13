@@ -1,5 +1,27 @@
-<h1 align="left">Olá 👋, sou o Lucas Santos</h1>
-<h3 align="left">QA Test em Campinas - SP</h3>
+<h3 align="left">QA Test</h3>
+
+<h3 align="left">Sobre</h3>
+
+Atuando na área de QA desde 2015 na empresa Thomson Reuters. Sou formado em Engenharia da Computação pela Faculdade METROCAMP e técnico em informática pela Fundação Bradesco.\
+Anteriormente trabalhei em um projeto da IBM alocado no cliente Thomson Reuters prestando serviços de suporte técnico.
+
+Conhecimentos:
+
+Automação Web com Selenium e Python\
+Execução de automação BDD com Cucumber\
+Cypress\
+RobotFramework\
+Postman\
+Newman\
+SQL\
+PL/SQL (selects)\
+Métodologia ágil (SCRUM)\
+Kanban\
+Jira\
+HPQC\
+Funcional/Não funcional; Manual; Regressão e Exploratório\
+Criação e execução de casos de testes reportando defeitos e melhorias\
+Responsável pela estratégia de teste do produto junto ao time\
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
